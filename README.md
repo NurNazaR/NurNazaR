@@ -1,19 +1,18 @@
-## Hi there 👋
+## Hi there! 👋
 
-### About me 
-I am bachelor student at PolyU studying Physics and AI. My interests include AI, deep learning, in particular computer vision. Tools I mostly use for my projects are python, OpenCV, tensorflow, torch, fast.ai and streamlit. 🌱 I’m currently learning data engineering course by Deeplearning.AI and AWS cloud services. 🔭 I’m currently working on how to utilize MediaPipe to build 3D avatar/character motion control. 📫 How to reach me: [Connect with me on LinkedIn](https://www.linkedin.com/in/nurdaulet-nazarbay-630231250/). 👯 I’m looking to collaborate on any interesting computer vision/ML projects. 
+I'm a Bachelor student at PolyU, studying Physics and AI. My interests include AI and deep learning, especially in computer vision. 
 
-<!--
-**NurNazaR/NurNazaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tools & Technologies
+- **Languages & Libraries**: Python, OpenCV, TensorFlow, PyTorch, Fast.ai, Streamlit
+- **Currently Learning**: Data engineering course by DeepLearning.AI and AWS cloud services
 
-Here are some ideas to get you started:
+### 🌟 Current Projects
+- Utilizing MediaPipe for 3D avatar/character motion control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Collaboration
+I'm eager to collaborate on exciting computer vision and ML projects!
+
+### 📫 Connect with Me
+[LinkedIn Profile](https://www.linkedin.com/in/nurdaulet-nazarbay-630231250/)
+
+Feel free to reach out!
